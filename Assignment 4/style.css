@@ -1,0 +1,80 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+    padding: 10px;
+}
+
+#fname{
+
+}
+
+.leftarea{
+    border-radius: 10px;
+    background-color: #7e00ff99;
+    display: flex;
+    padding: 1%;
+    margin: 10px;
+    width: 20vw;
+    display: inline-block;
+}
+#drinkright{
+    display: inline-block;
+    margin: 1vh 3vw;
+
+}
+#drink1{
+
+}
+#anyright{
+    display: inline-block;
+}
+input{
+    margin: 1vh 1vw;
+}
+label{
+    font-size: 15px;
+
+}
+#fname, #fdate{
+    margin: 1vh 1vw;
+    width: 63vw;
+    padding: 1%;
+    border-radius: 10px;
+    border: 1px solid;
+}
+#no4{
+    display: flex;
+}
+#drinkleft label{
+    padding: 4%;
+}
+#drinkleft{
+    margin: 0;
+}
+#anything{
+    display: inline-block;
+    padding: 1vw 1vh;
+}
+#submit{
+    margin: 1vh 1vw;
+    width: 90vw;
+    height: 6vh;
+    border-radius: 10px;
+    border: 1px solid;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #7e00ff;
+    color: white;
+}
+#inner{
+    padding: 15px 5px;
+}
+.delete-button, .edit-button{
+    padding: 5px 20px;
+    margin: 0px 10px;
+    border-radius: 10px;
+}
